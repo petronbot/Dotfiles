@@ -18,6 +18,7 @@ Riding on the coat-tails of some smart people who have been doing this [longer t
 	- [ ] /homebrew/Brewfile > ~/Brewfile
 	- [ ] /iterm/com.googlecode.iterm2.plist > ~/Libaray/Preferences/com.googlecode.iterm2.plist
 	- [ ] /sublime-text > ~/Applications/Sublime\ Text\ 3/Packages/Users
+	- [ ] "/Applications/Sublime Text 3.app/Contents/SharedSupport/bin/subl" ~/bin/subl
 - [x] Include an install script to run:
 	- [x] /homebrew/install.sh
 - [ ] Include a bootstrap script to put it all together:
