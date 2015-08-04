@@ -11,6 +11,8 @@ Riding on the coat-tails of some smart people who have been doing this [longer t
 
 ##todo
 
+- [x] Include Homebrew install and dependencies
+- [ ] Include rest of app prefs (Sublime etc)
 - [ ] Include some IRL dotfiles
 - [ ] Include a symlink script to symlink:
 	- [ ] /homebrew/Brewfile > ~/Brewfile
