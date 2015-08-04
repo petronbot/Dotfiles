@@ -1,0 +1,19 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Better CoffeeScript",
+		"Emmet",
+		"GitGutter",
+		"Gutter Color",
+		"JSHint Gutter",
+		"Laravel Blade Highlighter",
+		"Local History",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements"
+	]
+}
