@@ -15,8 +15,8 @@ Riding on the coat-tails of some smart people who have been doing this [longer t
 - [ ] Include a symlink script to symlink:
 	- [ ] /homebrew/Brewfile > ~/Brewfile
 	- [ ] /iterm/com.googlecode.iterm2.plist > ~/Libaray/Preferences/com.googlecode.iterm2.plist
-[x] Include an install script to run:
-	[x] /homebrew/install.sh
+- [x] Include an install script to run:
+	- [x] /homebrew/install.sh
 - [ ] Include a bootstrap script to put it all together:
 	- [ ] Set up symlinks
 	- [ ] Run installs
