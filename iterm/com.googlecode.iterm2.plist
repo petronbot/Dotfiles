@@ -376,7 +376,7 @@
 	<key>MaxVertically</key>
 	<false/>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Downloads/iTerm-2-Color-Themes-master</string>
+	<string>~/Projects/Dotfiles/iterm</string>
 	<key>NSQuotedKeystrokeBinding</key>
 	<string></string>
 	<key>NSRepeatCountBinding</key>
@@ -406,11 +406,11 @@
 		<integer>1</integer>
 	</dict>
 	<key>NSWindow Frame Preferences</key>
-	<string>742 492 924 485 0 0 2560 1417 </string>
+	<string>704 539 924 485 0 0 2560 1417 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
 	<string>526 1185 384 129 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>78 0 1130 1417 0 0 2560 1417 </string>
+	<string>13 22 1277 1395 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>398 167 570 451 0 0 2560 1418 </string>
 	<key>New Bookmarks</key>
@@ -533,11 +533,11 @@
 			<key>Ansi 6 Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.34117648005485535</real>
+				<real>0.44761484861373901</real>
 				<key>Green Component</key>
-				<real>0.32941177487373352</real>
+				<real>0.49911221861839294</real>
 				<key>Red Component</key>
-				<real>0.27450981736183167</real>
+				<real>0.2366345077753067</real>
 			</dict>
 			<key>Ansi 7 Color</key>
 			<dict>
@@ -995,11 +995,11 @@
 			<key>Selection Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.30241936445236206</real>
+				<real>0.31688085198402405</real>
 				<key>Green Component</key>
-				<real>0.30241936445236206</real>
+				<real>0.30620598793029785</real>
 				<key>Red Component</key>
-				<real>0.30241936445236206</real>
+				<real>0.3190104067325592</real>
 			</dict>
 			<key>Semantic History</key>
 			<dict>
@@ -1136,7 +1136,7 @@
 			<key>Visual Bell</key>
 			<true/>
 			<key>Window Type</key>
-			<integer>6</integer>
+			<integer>0</integer>
 			<key>Working Directory</key>
 			<string>/Users/petrag</string>
 		</dict>
@@ -1144,7 +1144,7 @@
 	<key>NoSyncTimeOfLastPromo</key>
 	<real>453254042.31455898</real>
 	<key>NoSyncTimeOfLastPromoDownload</key>
-	<real>460345141.66313797</real>
+	<real>460431542.35989898</real>
 	<key>OnlyWhenMoreTabs</key>
 	<true/>
 	<key>OpenArrangementAtStartup</key>
@@ -1191,7 +1191,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/petrag/Projects/Doftiles</string>
+	<string>/Users/petrag/Projects/Dotfiles/iterm</string>
 	<key>PromptOnQuit</key>
 	<false/>
 	<key>QuitWhenAllWindowsClosed</key>
@@ -1207,7 +1207,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2015-08-04T01:38:54Z</date>
+	<date>2015-08-05T01:38:54Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>ShowBookmarkName</key>
