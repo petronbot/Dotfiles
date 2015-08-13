@@ -8,5 +8,6 @@
 	],
 	"line_padding_bottom": -2,
 	"line_padding_top": -2,
-	"save_on_focus_lost": true
+	"save_on_focus_lost": true,
+    "folder_exclude_patterns": [".svn", ".hg", "CVS"],
 }
