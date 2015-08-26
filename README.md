@@ -22,7 +22,7 @@ Riding on the coat-tails of some smart people who have been doing this [longer t
 - [x] Include an install script to run:
 	- [x] /homebrew/install.sh
 	- [x] /sublime-text/install.sh
-- [x] Include the invaluable newsite.sh (thanks @k7n4n5t3w4rt)
+- [x] Include the invaluable newsite.sh (thanks [@k7n4n5t3w4rt][2])
 - [ ] Include a bootstrap script to put it all together:
 	- [ ] Set up symlinks
 	- [ ] Run installs
@@ -32,3 +32,4 @@ Riding on the coat-tails of some smart people who have been doing this [longer t
 
 
 [1]: http://dotfiles.github.io/
+[2]: https://github.com/k7n4n5t3w4rt/
